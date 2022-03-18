@@ -1,1 +1,1 @@
-# Rest-practuce-Magic
+# Rest-Practice-Magic
